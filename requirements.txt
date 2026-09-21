@@ -13,3 +13,5 @@ traitlets        : 5.16.1
 qtconsole        : 5.7.2
 numpy            : 2.4.4
 matplotlib       : 3.11.2
+torch            :2.14.0+cu126
+torchvision      :0.29.0+cu126
